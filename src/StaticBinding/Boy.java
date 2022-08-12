@@ -21,7 +21,7 @@ public class Boy extends Human{
 		
 		h2.walk();
 		h2.speak();
-        
+               System.out.println("git hub);
 	}
 
 }
